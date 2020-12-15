@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919392765487",
+    "project_id": "project-3-2-5368e",
+    "storage_bucket": "project-3-2-5368e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919392765487:android:d827806520e4f0867368da",
+        "android_client_info": {
+          "package_name": "com.example.sadia.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919392765487-tm5ipnt19ncmab1m0gos7n9f16k15g6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe4fw7M3Nsmvfar2vjyG94uGmEdDQFiD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919392765487-tm5ipnt19ncmab1m0gos7n9f16k15g6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
